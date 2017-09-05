@@ -18,3 +18,4 @@
     * [Dashboard](Employee/EmployeeDashboard.md)
     * [Add Employee](Employee/AddEmployee.md)
 * [Reference](Registration/Reference.md)
+

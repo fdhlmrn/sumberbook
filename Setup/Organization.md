@@ -13,31 +13,26 @@
 5. Click "New Organization" to create new Organization.
 
 6. New Organization form consisting of three parts will be displayed.
-![Organization Form](/Images/Organization/organization_create.png)
+![Organization Form](/Images/Organization/Organization.jpg)
 
 7. Form: Organization Information. *** compulsory**
-        1. Enter new organization's desired name
-           - Name must be more than 5 characters
 
-        2. Prefix Code
-           - Must be unique characters and not more than 4 characters.
+| Instruction  | Explaination |
+| ------------- | ------------- |
+| Enter new organization's desired name | Name must be more than 5 characters |
+| Prefix code  | Must be unique characters and not more than 4 characters. |
+| Subdomain  | e.g. fadhil.sumbermanusia.my __fadhil__ is subdomain.  |
+| Organization Type | .e.g. Sole Proprietorship, Partnership, etc...  |
+| Organization Logo  |  Insert any photo format e.g JPG ,JPEG, PNG |
 
-        3. Subdomain
-           - e.g. fadhil.sumbermanusia.my __fadhil__ is subdomain.
-
-        4. Organization Type
-           - e.g. Sole Proprietorship, Partnership, etc...
-
-        5. Organization Logo
-           - e.g.
 
 8. Form: Statutory Information.
-        1. Registration No.
-            - Can be found in Borang SSM, Borang 8A, CP39, Form E
-        2. EPF Reference No.
-            - Can be foud in Borang A (No. Rujukan Majikan)
-        3. GST Reference No.
-            - Number registered with LHDN
+
+| Instruction  | Explaination |
+| ------------- | ------------- |
+| Registration No | Can be found in Borang SSM, Borang 8A, CP39, Form E |
+| EPF Reference No.  | Can be foud in Borang A (No. Rujukan Majikan) |
+| GST Reference No. | Number registered with LHDN  |
 
 9. Form: Mailing Address Information.
         1. Address
