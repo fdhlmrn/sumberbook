@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-
 * [Registration](Registration/README.md)
     * [Sign up employee](Registration/Signup.md)
     * [Activation Email](Registration/Activation.md)
@@ -18,4 +17,4 @@
 * [Employee](Employee/README.md)
     * [Dashboard](Employee/EmployeeDashboard.md)
     * [Add Employee](Employee/AddEmployee.md)
-
+* [Reference](Registration/Reference.md)

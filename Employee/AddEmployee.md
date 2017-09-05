@@ -65,19 +65,19 @@
 			- Basic salary of employee
 ![Create Employee: 4](/Images/Employee/employee_create_salary.png)
 
-6. Succesfull submission will redirect the page to department's dasboard. A newly added department will be added.
-![Success Employee](/Images/Department/department_success.png)
+6. Succesfull submission will redirect the page to employee's dasboard. A newly added employee will be added.
+![Success Employee](/Images/Employee/employee_success.png)
 
 7. To view individual row, click on the first icon on the last columns.
 
-8. Page will be redirected to a read-only page displaying all related informations on the department.
-![Show Employee](/Images/Department/department_show.png)
+8. Page will be redirected to a read-only page displaying all related informations on the employee.
+![Show Employee](/Images/Employee/employee_show.png)
 
 9. To edit individual row, click on the middle icon on the last columns.
 
-10. An edit department page will be displayed containing old information inserted which can be alter.
-![Edit Employee](/Images/Department/department_edit.png)
+10. An edit employee page will be displayed containing old information inserted which can be alter.
+![Edit Employee](/Images/Employee/employee_edit.png)
 
 11. To delete individual row, click on the right icon on the last columns and you will be prompted with a confirmation-popout.
-![Delete Employee](/Images/Department/department_delete.png)
+![Delete Employee](/Images/Employee/employee_delete.png)
 
