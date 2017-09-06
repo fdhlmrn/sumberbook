@@ -1,21 +1,21 @@
 ## Organization Setup
 
 
-1. Organization dashboard will be presented.
+####Organization dashboard will be presented.
 ![Organization Dashboard](/Images/Organization/organization_dashboard.png)
 
-2. Search function can be found on top right of the table to find information needed.
+####Search function can be found on top right of the table to find information needed.
 
-3. Each of the column are sort-able by clicking on title of column.
+####Each of the column are sort-able by clicking on title of column.
 
-4. Number of records displayed can also be change from 10 up to 100.
+####Number of records displayed can also be change from 10 up to 100.
 
-5. Click "New Organization" to create new Organization.
+####Click "New Organization" to create new Organization.
 
-6. New Organization form consisting of three parts will be displayed.
+####New Organization form consisting of three parts will be displayed.
 ![Organization Form](/Images/Organization/Organization.jpg)
 
-7. Form: Organization Information. *** compulsory**
+####Form: Organization Information. *** compulsory**
 
 | Instruction  | Explaination |
 | ------------- | ------------- |
@@ -26,7 +26,7 @@
 | Organization Logo  |  Insert any photo format e.g JPG ,JPEG, PNG |
 
 
-8. Form: Statutory Information.
+####Form: Statutory Information.
 
 | Instruction  | Explaination |
 | ------------- | ------------- |
@@ -34,7 +34,7 @@
 | EPF Reference No.  | Can be foud in Borang A (No. Rujukan Majikan) |
 | GST Reference No. | Number registered with LHDN  |
 
-9. Form: Mailing Address Information.
+####Form: Mailing Address Information.
         1. Address
             - Company's address. Need to be more than 10 characters
         2. Postcode
@@ -42,7 +42,7 @@
         4. State
         5. Country
 
-10. Form: Physical Address Information.
+####Form: Physical Address Information.
         0. Tick same with Mailing Address, if same informations are being use.
         1. Address
             - Company's address. Need to be more than 10 characters
@@ -51,16 +51,16 @@
         4. State
         5. Country
 
-11. Succesfull submission will redirect the page to organization's dasboard. A newly added organization will be added.
+####Succesfull submission will redirect the page to organization's dasboard. A newly added organization will be added.
 
-12. To view individual row, click on the first icon on the last columns.
+####To view individual row, click on the first icon on the last columns.
 
-13. Page will be redirected to a read-only page displaying all related informations on the organization.
+####Page will be redirected to a read-only page displaying all related informations on the organization.
 
-14. To edit individual row, click on the middle icon on the last columns.
+####To edit individual row, click on the middle icon on the last columns.
 
-15. An edit organization page will be displayed containing old information inserted which can be alter.
+####An edit organization page will be displayed containing old information inserted which can be alter.
 
-16. To delete individual row, click on the right icon on the last columns and you will be prompted with a confirmation-popout.
+####To delete individual row, click on the right icon on the last columns and you will be prompted with a confirmation-popout.
 ![Organization Delete](/Images/Organization/organization_delete.png)
 

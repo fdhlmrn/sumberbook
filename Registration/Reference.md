@@ -4,7 +4,7 @@ You will be able to find all related information as follows:
 
 * * * 
 
-**Company Name**
+####Company Name
 
 Can be obtained from:
     1. Borang SSM
@@ -14,13 +14,13 @@ Can be obtained from:
     3. Borang A
 ![Borang A](/Images/Form/borang_a.png)
     4. CP39
-![Borang CP39](/Images/Form/c3p9.png)
+![Borang CP39](/Images/Form/cp39.png)
     4. Form E
 ![Borang E](/Images/Form/form_e.png)
 
 * * * 
 
-**Company Registration Number**
+####Company Registration Number
 
 Can be obtained from:
     1. Borang SSM
@@ -34,7 +34,7 @@ Can be obtained from:
 
 * * * 
 
-**E-Number**
+####E-Number
 
 Can be obtained from:
     1. CP39
@@ -46,7 +46,7 @@ Can be obtained from:
 
 * * * 
 
-**C-Number**
+####C-Number
 
 Can be obtained on **Form E**.
 
@@ -54,7 +54,7 @@ Can be obtained on **Form E**.
 
 * * * 
 
-**EPF Number**
+####EPF Number
 
 Can be obtained on **Borang A**.
 
@@ -62,7 +62,7 @@ Can be obtained on **Borang A**.
 
 * * * 
 
-**SOCSO Number**
+####SOCSO Number
 
 Can be obtained on **Borang 8A**.
 
