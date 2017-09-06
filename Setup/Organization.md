@@ -17,7 +17,7 @@
 
 ####Form: Organization Information. *** compulsory**
 
-| Instruction  | Explaination |
+| Instruction  | Explanation |
 | ------------- | ------------- |
 | Enter new organization's desired name | Name must be more than 5 characters |
 | Prefix code  | Must be unique characters and not more than 4 characters. |
@@ -28,38 +28,43 @@
 
 ####Form: Statutory Information.
 
-| Instruction  | Explaination |
+| Instruction  | Explanation |
 | ------------- | ------------- |
 | Registration No | Can be found in Borang SSM, Borang 8A, CP39, Form E |
 | EPF Reference No.  | Can be foud in Borang A (No. Rujukan Majikan) |
 | GST Reference No. | Number registered with LHDN  |
 
 ####Form: Mailing Address Information.
-        1. Address
-            - Company's address. Need to be more than 10 characters
-        2. Postcode
-        3. City
-        4. State
-        5. Country
+
+| Instruction  | Explanation |
+| ------------- | ------------- |
+| Address | Company's address. Need to be more than 10 characters |
+| Postcode  | |
+| City | |
+| State | |
+| Country | ||
 
 ####Form: Physical Address Information.
-        0. Tick same with Mailing Address, if same informations are being use.
-        1. Address
-            - Company's address. Need to be more than 10 characters
-        2. Postcode
-        3. City
-        4. State
-        5. Country
+
+| Instruction  | Explanation |
+| ------------- | ------------- |
+| Same with Mailing Address checkbox | If same address is used, check |
+| Postcode  | |
+| City | |
+| State | |
+| Country | ||
 
 ####Succesfull submission will redirect the page to organization's dasboard. A newly added organization will be added.
 
 ####To view individual row, click on the first icon on the last columns.
 
 ####Page will be redirected to a read-only page displaying all related informations on the organization.
+![Organization Show](/Images/Organization/organization_show.png)
 
 ####To edit individual row, click on the middle icon on the last columns.
 
 ####An edit organization page will be displayed containing old information inserted which can be alter.
+![Organization Edit](/Images/Organization/organization_edit.png)
 
 ####To delete individual row, click on the right icon on the last columns and you will be prompted with a confirmation-popout.
 ![Organization Delete](/Images/Organization/organization_delete.png)

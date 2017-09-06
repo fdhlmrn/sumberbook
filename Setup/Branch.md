@@ -12,26 +12,31 @@
 ####Click on "New Branch" to create new Branch.
 ![New Branch](/Images/Branch/branch_create.png)
 
-####Form: Branch Information *** compulsory**.
-		Enter branch name
-			- Name of your new branch.
+###Form: Branch Information *** compulsory**.
+
+| Instruction  | Explanation |
+| ------------- | ------------- |
+| Branch Name | Name of new Branch |
 
 ####Form: Mailing Address Information.
-		1. Address
-			- Address for mailing purposes
-		2. Postcode
-		3. City
-		4. State
-		5. Country
+
+| Instruction  | Explanation |
+| ------------- | ------------- |
+| Address | Company's address. Need to be more than 10 characters |
+| Postcode  | |
+| City | |
+| State | |
+| Country | ||
 
 ####Form: Physical Address Information.
-		0. Tick same if both mailing and physical address share the same informations.
-		1. Address
-			- Address of actual physical branch.
-		2. PostCode
-		3. City
-		4. State
-		5. Country
+
+| Instruction  | Explanation |
+| ------------- | ------------- |
+| Same with Mailing Address checkbox | If same address is used, check |
+| Postcode  | |
+| City | |
+| State | |
+| Country | ||
 
 ####Form: Working Days Information.
 		Working days

@@ -15,12 +15,12 @@
 ![Unit Create](/Images/Unit/unit_create.png)
 
 ####Form: Unit Information *** compulsory**.
-        1. Branch
-            - Select branch where the unit will be deployed
-        2. Department
-            - Select the department within the branch where unit will be created
-        3. Unit Name
-            - Provide name of newly created Unit.
+
+| Instruction  | Explanation |
+| ------------- | ------------- |
+| Branch | Select branch where the unit will be deployed |
+| Department | Select the department within the branch where unit will be created |
+| Unit Name | Name of newly created unit |
 
 ####Succesfull submission will redirect the page to group's dasboard. A newly added group will be added.
 ![Unit Success](/Images/Unit/unit_success.png)

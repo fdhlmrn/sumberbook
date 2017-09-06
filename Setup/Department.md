@@ -13,10 +13,11 @@
 ![Create Department](/Images/Department/department_create.png)
 
 ####Form: Department Information *** compulsory**.
-		1. Select Branch.
-			- Select branch where the department will be deployed at
-		2. Department Name.
-			- Name for new department
+
+| Instruction  | Explanation |
+| ------------- | ------------- |
+| Select Branch | Select branch where the department will be deployed at |
+| Department Name  | Name for new department |
 
 ####Succesfull submission will redirect the page to department's dasboard. A newly added department will be added.
 ![Success Department](/Images/Department/department_success.png)

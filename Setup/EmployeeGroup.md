@@ -15,8 +15,10 @@
 ![Group Create](/Images/EmployeeGroup/employeegroup_create.png)
 
 ####Form: Organization Information *** compulsory**.
-		1. Name
-			- Name of employee group. To group a number of employee in the same team or group. e.g. Executive, Non-Executive
+
+| Instruction  | Explanation |
+| ------------- | ------------- |
+| Name | Name of employee group. To group a number of employee in the same team or group. e.g. Executive, Non-Executive |
 
 ####Succesfull submission will redirect the page to group's dasboard. A newly added group will be added.
 ![Group Success](/Images/EmployeeGroup/employeegroup_success.png)

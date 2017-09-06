@@ -17,5 +17,7 @@
 * [Employee](Employee/README.md)
     * [Dashboard](Employee/EmployeeDashboard.md)
     * [Add Employee](Employee/AddEmployee.md)
+* [Leave Policy](Leave/README.md)
+    * [Leave Policy Dashboard](Leave/LeavePolicy.md)
 * [Reference](Registration/Reference.md)
 

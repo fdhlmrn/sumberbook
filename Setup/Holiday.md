@@ -15,10 +15,11 @@
 ![Holiday Create](/Images/Holiday/holiday_create.png)
 
 ####Form: Organization Information ***compulsary**
-		1. Holiday Name
-			- Name of holiday. e.g. Birthday Khai
-		2. Date
-			- When is the holiday ?
+
+| Instruction  | Explanation |
+| ------------- | ------------- |
+| Holiday Name | Name of holiday. e.g. Cuti Kemenangan Sukan Sea |
+| Date | When is the holiday ? |
 
 ####Succesfull submission will redirect the page to list's dasboard. A newly added holiday will be added.
 ![Holiday Success](/Images/Holiday/holiday_success.png)
