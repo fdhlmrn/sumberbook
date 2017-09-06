@@ -13,6 +13,18 @@
 ![Create Employee: 1](/Images/Employee/employee_create_general.png)
 
 3. Form: Job Information. *** compulsory**
+
+| Instruction  | Explaination |
+| ------------- | ------------- |
+| Employment Status | Status of employment. E.g. Confirmed, Probation |
+| Employment Type  | What is the type of employment? Permanent or Contract? |
+| Employee Group  | In which group does this employee belongs to ?  |
+| Start Date/End date ***if employment type is contract** | Start and end of contract  |
+| Designation  |  What is his/her job title ? |
+| Branch  |  In which branch will he/she work ? |
+| Joining Date  |  Date he/she will start to join |
+| Confirmation Date  |  Date he/she accept/confirm to work |
+
 		1. Employment Status
 			- Status of employment. E.g. Confirmed, Probation
 		2. Employment Type
