@@ -11,7 +11,11 @@
         5. Email
         	- Email address for login purposes
 ![Create Employee: 1](/Images/Employee/employee_create_general.png)
-
+asdasdasdasdasd
+asd
+asd
+a
+sd
 3. Form: Job Information. *** compulsory**
 		1. Employment Status
 			- Status of employment. E.g. Confirmed, Probation
