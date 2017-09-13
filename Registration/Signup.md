@@ -15,4 +15,3 @@
 ####Successful submission will yield below's image.
 
 ![Account Confirmation](/Images/accountconfirmation.png)
-

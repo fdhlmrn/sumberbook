@@ -35,5 +35,3 @@
 
 ####To delete individual row, click on the right icon on the last columns and you will be prompted with a confirmation-popout.
 ![Group Delete](/Images/EmployeeGroup/employeegroup_delete.png)
-
-

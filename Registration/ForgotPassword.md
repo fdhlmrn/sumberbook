@@ -19,4 +19,3 @@
 
 ####Upon finishing the process, you will be directed to the dashboard.
 ![Dash](/Images/dashboard.png)
-

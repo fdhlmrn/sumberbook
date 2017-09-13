@@ -11,4 +11,3 @@
 ![Login](/Images/login-unactivated.png)
 
 ####You will be greeted with new [Wizard](/Registration/Wizard.md) page.
-
