@@ -77,4 +77,4 @@
 ![Edit Employee](/Images/Employee/employee_edit.png)
 
 ####To delete individual row, click on the right icon on the last columns and you will be prompted with a confirmation-popout.
-![Delete Employee](/Images/Employee/Employee_Dßelete.png)
+![Delete Employee](/Images/Employee/Employee_Delete.png)

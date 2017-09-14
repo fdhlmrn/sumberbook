@@ -26,7 +26,7 @@
 ![Success Payroll](/Images/Payroll/payroll_success.png)
 
 ####Click on status button to change the status of the payroll
-![Success Payroll](/Images/Payroll/Payroll_status.jpgß)
+![Success Payroll](/Images/Payroll/Payroll_status.jpg)
 
 | Instruction  | Explanation |
 | ------------- | ------------- |
@@ -45,4 +45,4 @@
 
 ####Click email icon to send payslip through email to the employee
 
-![Success Payroll](/Images/Payroll/payroll_Email_Notiß.png)
+![Success Payroll](/Images/Payroll/Payroll_Email_Noti.png)
