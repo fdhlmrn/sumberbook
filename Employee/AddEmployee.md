@@ -1,8 +1,8 @@
 ##Add Employee
 
-####Click on new Employee to add new employee information.
+### Click on new Employee to add new employee information.
 
-####Form: General Information. *** compulsory**
+### Form: General Information. *** compulsory**
 ![Create Employee: 1](/Images/Employee/employee_create_general.png)
 
 | Instruction  | Explanation |
@@ -13,7 +13,7 @@
 | Last Name | What is Employee's Last Name |
 | Email  |  Employee's Email address for login purposes |
 
-####Form: Job Information. *** compulsory**
+### Form: Job Information. *** compulsory**
 ![Create Employee: 2](/Images/Employee/employee_create_job.png)
 
 | Instruction  | Explanation |
@@ -28,7 +28,7 @@
 | Confirmation Date  |  Date he/she accept/confirm to work |
 | Supervisors  |  Who will monitor/manage this employee |
 
-####Form: Statutory Information. *** compulsory**
+### Form: Statutory Information. *** compulsory**
 ![Create Employee: 3](/Images/Employee/employee_create_statutory.png)
 
 **Native**
@@ -52,7 +52,7 @@
 | Date of Issue  |  |
 | Date of Expiry  | Expiry date of passport |
 
-####Form: Salary Information. ***compulsory**
+### Form: Salary Information. ***compulsory**
 ![Create Employee: 4](/Images/Employee/employee_create_salary.png)
 
 | Instruction  | Explanation |
@@ -71,10 +71,13 @@
 ####Page will be redirected to a read-only page displaying all related informations on the employee.
 ![Show Employee](/Images/Employee/employee_show.png)
 
-####To edit individual row, click on the middle icon on the last columns.
+####To edit individual row, click on the fourth icon on the last columns.
 
 ####An edit employee page will be displayed containing old information inserted which can be alter.
 ![Edit Employee](/Images/Employee/employee_edit.png)
 
-####To delete individual row, click on the right icon on the last columns and you will be prompted with a confirmation-popout.
-![Delete Employee](/Images/Employee/Employee_Delete.png)
+####To delete individual row, click on the fifth icon on the last columns and you will be prompted with a confirmation-popout.
+![Delete Employee](/Images/Employee/employee_deletes.png)
+
+####To impersonate an employee, click on the sixth icon.
+![Delete Employee](/Images/Employee/employee_impersonate.png)

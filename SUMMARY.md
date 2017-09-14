@@ -22,5 +22,6 @@
     * [Payroll Authorization](Employee/PayrollAuthorization.md)
 * [Leave Policy](Leave/README.md)
     * [Leave Policy Dashboard](Leave/LeavePolicy.md)
+    * [Leave Policy Details Dashboard](Leave/LeavePolicyDetails.md)
 * [Reference](Registration/Reference.md)
 

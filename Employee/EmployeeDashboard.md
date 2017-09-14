@@ -10,3 +10,8 @@
 ####Number of records displayed can also be change from 10 up to 100.
 
 ####Click on "[New Employee](/Employee/AddEmployee.md)" to add new employee entry.
+
+####To view employee's calendar, click on the second icon on the last columns.
+
+####Page will be redirected to a read-only page displaying all related informations on the group.
+![Unit Show](/Images/Unit/employee_calendar.png)

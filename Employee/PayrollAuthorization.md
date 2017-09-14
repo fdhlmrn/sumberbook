@@ -1,6 +1,6 @@
 ##Payroll Authorization
 
-###Click Payrolls and select Authorization
+### Click Payrolls and select Authorization
 
 ![Navigate Payroll: 1](/Images/Payroll/payroll_navbar.png)
 

@@ -51,6 +51,7 @@
 ####To view individual row, click on the first icon on the last columns.
 
 ####Page will be redirected to a read-only page displaying all related informations on the branch.
+![Show Branch](/Images/Branch/branch_show.png)
 
 ####To edit individual row, click on the middle icon on the last columns.
 
