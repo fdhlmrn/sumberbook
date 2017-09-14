@@ -19,6 +19,7 @@
     * [Add Employee](Employee/AddEmployee.md)
     * [Import Employee](Employee/ImportEmployee.md)
     * [Create Payroll](Employee/Payroll.md)
+    * [Payroll Authorization](Employee/PayrollAuthorization.md)
 * [Leave Policy](Leave/README.md)
     * [Leave Policy Dashboard](Leave/LeavePolicy.md)
 * [Reference](Registration/Reference.md)
