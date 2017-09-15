@@ -13,7 +13,7 @@
 ####Click "New Organization" to create new Organization.
 
 ####New Organization form consisting of three parts will be displayed.
-![Organization Form](/Images/Organization/organization_create.png)
+![Organization Form](/Images/Organization/organization_create.jpg)
 
 ####Form: Organization Information. *** compulsory**
 
